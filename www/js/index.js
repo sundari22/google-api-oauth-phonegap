@@ -98,8 +98,8 @@ var googleapi = {
 };
 
 var app = {
-    client_id: '14325430122.apps.googleusercontent.com',
-    client_secret: 'kjG4087WLUuvC4AIrQEV0lAe',
+    client_id: '398902764944-clonrjacq4h0mppg6bivfmp3hsi25sf7.apps.googleusercontent.com',
+    client_secret: 'eLDnmpQ_CoGNksZZ3thL0Yhd',
     redirect_uri: 'http://localhost',
     scope: 'https://www.googleapis.com/auth/userinfo.profile',
 
